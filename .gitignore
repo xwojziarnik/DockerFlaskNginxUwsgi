@@ -1,2 +1,4 @@
-/env
+/flask/env
 /.idea
+/flask/__pycache__/
+/flask/app/__pycache__/

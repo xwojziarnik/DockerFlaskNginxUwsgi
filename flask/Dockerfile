@@ -1,5 +1,5 @@
 # Use the Python 3.10.2 container image
-FROM python:3.10.2-stretch
+FROM python:3.10.2
 
 # Set the working directory to /app
 WORKDIR /app
